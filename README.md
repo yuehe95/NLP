@@ -7,3 +7,6 @@
 - POS
 - Bag Of Words
 - TF-IDF
+
+2. Text Preprocessing 2
+- Word2Vec
