@@ -10,3 +10,4 @@
 
 2. Text Preprocessing 2
 - Word2Vec
+- Word embedding using embedding layers in Keras 
